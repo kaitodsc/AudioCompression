@@ -1,4 +1,4 @@
-# Yurei
+# Adam
 
 This document represents my thoughts on exploring audio compression.
 
