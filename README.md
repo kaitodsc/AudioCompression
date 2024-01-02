@@ -1,4 +1,4 @@
-# Adam
+# Kaito
 
 This document represents my thoughts on exploring audio compression.
 
